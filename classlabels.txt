@@ -1,0 +1,22 @@
+{
+  "0": "limit30",
+  "1": "limit50",
+  "2": "limit60",
+  "3": "limit80",
+  "4": "noleft",
+  "5": "noright",
+  "6": "nouturn",
+  "7": "gostraight",
+  "8": "goleft",
+  "9": "goright",
+  "10": "keepright",
+  "11": "roundabout",
+  "12": "danger",
+  "13": "pedestrcross",
+  "14": "bikecross",
+  "15": "childcross",
+  "16": "traincross",
+  "17": "construction",
+  "18": "nostopping",
+  "19": "noentry"
+}
